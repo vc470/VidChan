@@ -1,1 +1,2 @@
-# VidChan
+# Vid Chan
+# Different projects
