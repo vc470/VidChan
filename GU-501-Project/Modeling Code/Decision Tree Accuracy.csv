@@ -1,0 +1,30 @@
+﻿Less than a High School Diploma,0.74,1,,,
+Only High School Diploma,,,,Trial,Accuracy
+Some College or Associates Deg,,,,1,0.74
+Has a Bachelors Degree or Higher,,,,2,0.71
+Total Female Population,,,,3,0.54
+Total Male Population,,,,4,0.53
+,,,,5,0.51
+Less than a High School Diploma,0.71,2,,6,0.49
+Only High School Diploma,,,,7,0.47
+,,,,8,0.47
+Total Arrests,0.54,3,,9,0.43
+,,,,10,0.39
+Less than a High School Diploma,0.53,4,,,
+,,,,,
+HS,0.51,5,,,
+,,,,,
+Unemployment Rate,0.49,6,,,
+,,,,,
+Crime Rate,0.47,7,crime rate drops it by 2%,,
+Unemplyment Rate,,,,,
+,,,,,
+Total Arrests,0.47,8,,,
+Obesity Percent,,,,,
+,,,,,
+,,,,,
+,,,,,
+Obesity Percent,0.43,9,,,
+Povery Percent,,,,,
+,,,,,
+Median Income ,0.39,10,,,
